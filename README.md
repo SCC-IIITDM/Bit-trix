@@ -82,5 +82,3 @@ src/
 gtkwave dump.vcd
 ```
 
-```
-```
